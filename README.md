@@ -1,4 +1,6 @@
 # practiceRepo
 
-I created this repository to hlep me learn to use git and github bofore messing with other repositories.
+I created this repository to help me learn to use git and github bofore messing with other repositories.
+
+
 
